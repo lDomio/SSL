@@ -7,3 +7,5 @@ Luca Domio
 Carboni, Miguel Salvador
 ## Comisión: 
 K2006
+---
+Utilice el compilador -std=gnu11 -o main
